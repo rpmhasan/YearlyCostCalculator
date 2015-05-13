@@ -1,0 +1,9 @@
+E:\Rupam's Works\YearlyCostCalculatorApp\YearlyCostCalculatorApp\bin\Debug\YearlyCostCalculatorApp.exe.config
+E:\Rupam's Works\YearlyCostCalculatorApp\YearlyCostCalculatorApp\bin\Debug\YearlyCostCalculatorApp.exe
+E:\Rupam's Works\YearlyCostCalculatorApp\YearlyCostCalculatorApp\bin\Debug\YearlyCostCalculatorApp.pdb
+E:\Rupam's Works\YearlyCostCalculatorApp\YearlyCostCalculatorApp\obj\Debug\YearlyCostCalculatorApp.csprojResolveAssemblyReference.cache
+E:\Rupam's Works\YearlyCostCalculatorApp\YearlyCostCalculatorApp\obj\Debug\YearlyCostCalculatorApp.Properties.Resources.resources
+E:\Rupam's Works\YearlyCostCalculatorApp\YearlyCostCalculatorApp\obj\Debug\YearlyCostCalculatorApp.YearlyCostCalculatorUI.resources
+E:\Rupam's Works\YearlyCostCalculatorApp\YearlyCostCalculatorApp\obj\Debug\YearlyCostCalculatorApp.csproj.GenerateResource.Cache
+E:\Rupam's Works\YearlyCostCalculatorApp\YearlyCostCalculatorApp\obj\Debug\YearlyCostCalculatorApp.exe
+E:\Rupam's Works\YearlyCostCalculatorApp\YearlyCostCalculatorApp\obj\Debug\YearlyCostCalculatorApp.pdb
